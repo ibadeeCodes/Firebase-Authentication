@@ -1,0 +1,12 @@
+.video-container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+.logout {
+    margin: 50px 0px;
+}
+.user {
+    margin: 30px 0px;
+    max-width: 80px;
+    max-height: 80px;
+}
